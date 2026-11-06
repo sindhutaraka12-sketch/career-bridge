@@ -1,0 +1,10 @@
+[
+{"name":"Google","role":"Software Engineer","eligibility":"Check current official/campus eligibility; strong DSA and CS fundamentals.","topics":["DSA","System design","Behavioral"]},
+{"name":"Microsoft","role":"Software Engineer","eligibility":"Role-specific academic criteria; coding and project experience.","topics":["DSA","OOP","Design"]},
+{"name":"Amazon","role":"SDE I","eligibility":"Campus and role criteria vary; review current official job listing.","topics":["DSA","Leadership principles","OOP"]},
+{"name":"TCS","role":"Ninja / Digital","eligibility":"Academic and backlog rules depend on current campus drive.","topics":["Aptitude","Coding","CS fundamentals"]},
+{"name":"Infosys","role":"Systems Engineer","eligibility":"Program-specific eligibility and academic requirements.","topics":["Aptitude","Java/Python","DBMS"]},
+{"name":"Wipro","role":"Project Engineer","eligibility":"Check current role/campus recruitment notice.","topics":["Aptitude","Coding","Communication"]},
+{"name":"Accenture","role":"Associate Software Engineer","eligibility":"Current campus hiring criteria may vary.","topics":["Cognitive","Coding","Communication"]},
+{"name":"Adobe","role":"Software Engineer","eligibility":"Strong coding and computer science fundamentals.","topics":["DSA","OOP","Projects"]}
+]

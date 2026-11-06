@@ -1,0 +1,10 @@
+[
+{"company":"Google","category":"DSA","question":"Explain time and space complexity.","answer":"Discuss Big-O, trade-offs, and possible optimization."},
+{"company":"Google","category":"DSA","question":"Find the first non-repeating character in a string.","answer":"Use a frequency map and then scan in original order; O(n) time."},
+{"company":"Microsoft","category":"OOP","question":"Explain the four pillars of OOP.","answer":"Encapsulation, abstraction, inheritance and polymorphism; give examples."},
+{"company":"Amazon","category":"Behavioral","question":"Tell me about a time you took ownership.","answer":"Use STAR: Situation, Task, Action, Result."},
+{"company":"TCS","category":"CS Fundamentals","question":"Process vs thread?","answer":"A process has its own address space; threads share resources within a process."},
+{"company":"Infosys","category":"DBMS","question":"What is normalization?","answer":"Organizes relational data to reduce redundancy and update anomalies."},
+{"company":"Accenture","category":"Aptitude","question":"How do you approach time-and-work problems?","answer":"Represent rates as fractions, combine rates, and track units carefully."},
+{"company":"Wipro","category":"Coding","question":"Check if a string is a palindrome.","answer":"Compare from both ends or reverse; explain case/punctuation assumptions."}
+]
